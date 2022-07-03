@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".parichaya.Uddshya">
+
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10.0dip">
+        <RelativeLayout android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20.0dip"
+            android:layout_marginTop="8.0dip"
+            android:layout_marginRight="20.0dip">
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#060606"
+                android:textStyle="bold"
+                android:gravity="center"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="आर्यवीर दल का उद्देश्य :" />
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#060606"
+
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+(१) वैदिक धर्म, आर्य-संस्कृति एवं आर्य-सभ्यता की रक्षा, प्रचार और
+प्रसार करना।\n\n
+
+(२) समस्त उचित उपायों द्वारा आर्यजाति में क्षात्रधर्म का प्रचार, प्रशिक्षण
+देकर स्वात्म-रक्षण और राष्ट्र-रक्षार्थ किसी भी विपत्ति का सामना करने के लिए
+सन्नद्ध रहना।\n\n
+(३) जनता की सेवा के लिए आर्यवीरों को प्रशिक्षित करना।
+
+संक्षेप में संस्कृति रक्षा, शक्ति सञ्चय और सेवाकार्य, आर्यवीर दल का
+उद्देश्य है।\n\n"/>
+        </RelativeLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".parichaya.Arya_vaar_dal_Parichaya">
+
+
+
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10.0dip">
+        <RelativeLayout android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20.0dip"
+            android:layout_marginTop="8.0dip"
+            android:layout_marginRight="20.0dip">
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#060606"
+                android:textStyle="bold"
+                android:gravity="center"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" आर्य वीर दल " />
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#060606"
+
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+    आर्य शब्द का अर्थ श्रेष्ठ व्यक्ति' है। निरुक्त में इसका अर्थ 'ईश्वर-पुत्रः'
+    किया है। जो ईश्वर का भक्त हो और उसकी आज्ञा अर्थात् वेदोक्त धर्म का पालन
+    करे, उसे आर्य कहते हैं। आर्य के आठ लक्षण हैं-\n\nज्ञानी, तुष्टश्च, दान्तश्च, सत्यवादी, जितेन्द्रियः।\n
+    दाता, दयालु, नम्रश्च स्यादार्यो ह्यष्टभिर्गुणैः।।\n\n
+
+    अर्थात् ज्ञान (विद्या), सन्तोष, मन पर नियन्त्रण, सत्यभाषण, इन्द्रियों को वश
+    में करना, दान, दया और विनम्रता ये आठ गुण आर्य में होने चाहिएँ। यह शब्द
+    संस्कृत की 'ऋ' धातु से बना है, जिसका अर्थ 'गति करना' होता है। प्रगतिशील
+    व्यक्ति को ही आर्य कहते हैं।\n\n
+
+    'वीर' शब्द 'वीर विक्रान्तौ' धातु से बना है। जो व्यक्ति पराक्रमी हो अथवा
+    जिसे सम्मुख देखकर शत्रु को कँपकँपी छूट जाए उसे वीर कहा जाता है।\n\n'दल' शब्द संगठन का वाचक है अथवा दलनार्थक 'दल' धातु से इसकी व्युत्पत्ति
+    होतीहै । इस प्रकार आर्यवीर दल शब्द का अर्थ हुआ ‘श्रेष्ठ चरित्रवान् वीरों का
+    संगठन'। यहाँ यह बात ध्यान देने योग्य है कि पहले आर्य बनना आवश्यक है,
+    अन्यथा केवल वीरता सज्जन लोगों की रक्षा के स्थान पर उन्हें पीड़ित भी कर सकती
+    है। अच्छे और शूरवीर व्यक्ति भी यदि संगठन में नहीं रह सकते तो उनकी ही
+    विजय होगी, ऐसा कहना कठिन है। इसलिए आर्यवीर में बुद्धि एवं बल, ब्राह्मण एवं
+    क्षत्रिय के गुणों का समावेश तथा उत्कृष्ट श्रेणी का अनुशासन होना अनिवार्य है।\n\n
+    "/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
